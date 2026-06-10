@@ -1,0 +1,1143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="de-DE" original="KCX WebShop Extension">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3223427247 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BC To NAV Export List</source>
+          <target state="translated">BC-zu-NAV Exportliste</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Export List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3223427247 - Field 2854863747 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DateTime</source>
+          <target state="translated">Datum/Uhrzeit</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Export List - Field DateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3223427247 - Field 610222616 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RecID Text</source>
+          <target state="translated">Datensatz-ID Text</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Export List - Field RecID Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3223427247 - Field 3768732020 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RecordID</source>
+          <target state="translated">Datensatz-ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Export List - Field RecordID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3223427247 - Field 2465538441 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table No</source>
+          <target state="translated">Tabellennr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Export List - Field Table No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3223427247 - Field 3373743377 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type Of Change</source>
+          <target state="translated">Änderungsart</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Export List - Field Type Of Change - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3223427247 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <target state="translated">Benutzer-ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Export List - Field User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BC To NAV Sales Header</source>
+          <target state="translated">BC-zu-NAV Verkaufskopf</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 831017837 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bill-to Address</source>
+          <target state="translated">Rechnungsadresse</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Bill-to Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 460968363 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bill-to Address 2</source>
+          <target state="translated">Rechnungsadresse 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Bill-to Address 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 3869539606 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bill-to City</source>
+          <target state="translated">Rechnungsort</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Bill-to City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 4064815791 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bill-to Contact</source>
+          <target state="translated">Rechnungskontakt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Bill-to Contact - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 3363652926 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bill-to Contact No.</source>
+          <target state="translated">Rechnungskontaktnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Bill-to Contact No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 2096911897 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bill-to Country/Region Code</source>
+          <target state="translated">Rechnungs-Länder-/Regionscode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Bill-to Country/Region Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 3882955433 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bill-to County</source>
+          <target state="translated">Rechnungsregion</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Bill-to County - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 2965034906 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bill-to Customer No.</source>
+          <target state="translated">Rechnungsdebitorennr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Bill-to Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 240204966 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bill-to Name</source>
+          <target state="translated">Rechnungsname</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Bill-to Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 2627792820 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bill-to Name 2</source>
+          <target state="translated">Rechnungsname 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Bill-to Name 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 675862156 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bill-to Post Code</source>
+          <target state="translated">Rechnungs-PLZ</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Bill-to Post Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <target state="translated">Währungscode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Currency Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 2324056710 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Factor</source>
+          <target state="translated">Währungsfaktor</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Currency Factor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 273731812 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Disc. Group</source>
+          <target state="translated">Debitorenrabattgruppe</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Customer Disc. Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 410940989 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Posting Group</source>
+          <target state="translated">Debitorenbuchungsgruppe</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Customer Posting Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 2725149570 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Price Group</source>
+          <target state="translated">Debitorenpreisgruppe</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Customer Price Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 929472333 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DCE Order No.</source>
+          <target state="translated">DCE-Auftragsnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field DCE Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 580412389 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <target state="translated">Belegdatum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Document Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <target state="translated">Belegart</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 4085727052 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Due Date</source>
+          <target state="translated">Fälligkeitsdatum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Due Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 633819257 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gen. Bus. Posting Group</source>
+          <target state="translated">Geschäftsbuchungsgruppe</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Gen. Bus. Posting Group - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 2273653569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Language Code</source>
+          <target state="translated">Sprachcode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Language Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 2161572060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Code</source>
+          <target state="translated">Lagerortcode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target state="translated">Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 2632124822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Date</source>
+          <target state="translated">Auftragsdatum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Order Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 3855271124 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Method Code</source>
+          <target state="translated">Zahlungsartcode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Payment Method Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 966740350 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Terms Code</source>
+          <target state="translated">Zahlungsbedingungscode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Payment Terms Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target state="translated">Buchungsdatum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 304272296 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prices Including VAT</source>
+          <target state="translated">Preise inkl. MwSt.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Prices Including VAT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 436997413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Promised Delivery Date</source>
+          <target state="translated">Zugesagtes Lieferdatum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Promised Delivery Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 553464652 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Salesperson Code</source>
+          <target state="translated">Verkäufercode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Salesperson Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 3606264650 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sell-to Address</source>
+          <target state="translated">Verkaufsadresse</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Sell-to Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 469609400 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sell-to Address 2</source>
+          <target state="translated">Verkaufsadresse 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Sell-to Address 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 1281923305 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sell-to City</source>
+          <target state="translated">Verkaufsort</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Sell-to City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 1006519668 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sell-to Contact</source>
+          <target state="translated">Verkaufskontakt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Sell-to Contact - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 3128777977 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sell-to Contact No.</source>
+          <target state="translated">Verkaufskontaktnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Sell-to Contact No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 3434865006 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sell-to Country/Region Code</source>
+          <target state="translated">Verkaufs-Länder-/Regionscode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Sell-to Country/Region Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 2131962646 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sell-to County</source>
+          <target state="translated">Verkaufsregion</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Sell-to County - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 1474036805 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sell-to Customer Name</source>
+          <target state="translated">Verkaufsdebitorname</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Sell-to Customer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 2958825091 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sell-to Customer Name 2</source>
+          <target state="translated">Verkaufsdebitorname 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Sell-to Customer Name 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 1225278069 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sell-to Customer No.</source>
+          <target state="translated">Verkaufsdebitorennr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Sell-to Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 709296807 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sell-to Post Code</source>
+          <target state="translated">Verkaufs-PLZ</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Sell-to Post Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 1187003046 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Address</source>
+          <target state="translated">Lieferadresse</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Ship-to Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 1417792948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Address 2</source>
+          <target state="translated">Lieferadresse 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Ship-to Address 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 1981213637 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to City</source>
+          <target state="translated">Lieferort</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Ship-to City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 993414011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Code</source>
+          <target state="translated">Lieferadressecode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Ship-to Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 929198632 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Contact</source>
+          <target state="translated">Lieferkontakt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Ship-to Contact - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 3354576322 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Country/Region Code</source>
+          <target state="translated">Liefer-Länder-/Regionscode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Ship-to Country/Region Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 187607738 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to County</source>
+          <target state="translated">Lieferregion</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Ship-to County - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 2743501653 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Name</source>
+          <target state="translated">Liefername</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Ship-to Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 3261344115 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Name 2</source>
+          <target state="translated">Liefername 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Ship-to Name 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 3172878019 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to Post Code</source>
+          <target state="translated">Liefer-PLZ</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Ship-to Post Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 4112852368 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Date</source>
+          <target state="translated">Lieferdatum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Shipment Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 2205104606 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Method Code</source>
+          <target state="translated">Lieferbedingungscode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Shipment Method Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 4045368290 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipping Agent Code</source>
+          <target state="translated">Zustellercode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Shipping Agent Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 1577567912 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 1 Code</source>
+          <target state="translated">Shortcutdimensionscode 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Shortcut Dimension 1 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 1003760969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shortcut Dimension 2 Code</source>
+          <target state="translated">Shortcutdimensionscode 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Shortcut Dimension 2 Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <target state="translated">Status</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 3373743377 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type Of Change</source>
+          <target state="translated">Änderungsart</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Type Of Change - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 572122291 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Country/Region Code</source>
+          <target state="translated">MwSt.-Länder-/Regionscode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field VAT Country/Region Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 617267791 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Registration No.</source>
+          <target state="translated">USt-IdNr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field VAT Registration No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1654016840 - Field 3001618318 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Your Reference</source>
+          <target state="translated">Ihre Referenz</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Header - Field Your Reference - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1278197807 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BC To NAV Sales Line</source>
+          <target state="translated">BC-zu-NAV Verkaufszeile</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1278197807 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target state="translated">Betrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Line - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1278197807 - Field 1650118938 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Including VAT</source>
+          <target state="translated">Betrag inkl. MwSt.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Line - Field Amount Including VAT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1278197807 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="translated">Beschreibung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Line - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1278197807 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <target state="translated">Belegnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Line - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1278197807 - Field 2363328873 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Type</source>
+          <target state="translated">Belegart</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Line - Field Document Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1278197807 - Field 3582421358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Amount</source>
+          <target state="translated">Zeilenbetrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Line - Field Line Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1278197807 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target state="translated">Zeilennr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1278197807 - Field 2161572060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Code</source>
+          <target state="translated">Lagerortcode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Line - Field Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1278197807 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target state="translated">Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Line - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1278197807 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target state="translated">Menge</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Line - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1278197807 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="translated">Art</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Line - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1278197807 - Field 3373743377 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type Of Change</source>
+          <target state="translated">Änderungsart</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Line - Field Type Of Change - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1278197807 - Field 2937233469 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price</source>
+          <target state="translated">VK-Preis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Line - Field Unit Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1278197807 - Field 3450651614 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Variant Code</source>
+          <target state="translated">Variantencode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BC To NAV Sales Line - Field Variant Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3965420519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Current Duplicate UVP Buffer</source>
+          <target state="translated">Puffer aktuelle doppelte UVP</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Current Duplicate UVP Buffer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3965420519 - Field 70069925 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active Entry Count</source>
+          <target state="translated">Anzahl aktive Einträge</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Current Duplicate UVP Buffer - Field Active Entry Count - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3965420519 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <target state="translated">Währungscode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Current Duplicate UVP Buffer - Field Currency Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3965420519 - Field 458406397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ending Date</source>
+          <target state="translated">Enddatum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Current Duplicate UVP Buffer - Field Ending Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3965420519 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <target state="translated">Lfd. Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Current Duplicate UVP Buffer - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3965420519 - Field 93727822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Key</source>
+          <target state="translated">Artikelschlüssel</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Current Duplicate UVP Buffer - Field Item Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3965420519 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target state="translated">Artikelnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Current Duplicate UVP Buffer - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3965420519 - Field 67248183 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Minimum Quantity</source>
+          <target state="translated">Mindestmenge</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Current Duplicate UVP Buffer - Field Minimum Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3965420519 - Field 231418639 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Code</source>
+          <target state="translated">Verkaufscode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Current Duplicate UVP Buffer - Field Sales Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3965420519 - Field 1406664548 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Type</source>
+          <target state="translated">Verkaufsart</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Current Duplicate UVP Buffer - Field Sales Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3965420519 - Field 2649378047 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Record ID</source>
+          <target state="translated">Quelldatensatz-ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Current Duplicate UVP Buffer - Field Source Record ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3965420519 - Field 460889064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Starting Date</source>
+          <target state="translated">Startdatum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Current Duplicate UVP Buffer - Field Starting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3965420519 - Field 2385270358 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit of Measure Code</source>
+          <target state="translated">Einheitencode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Current Duplicate UVP Buffer - Field Unit of Measure Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3965420519 - Field 2937233469 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price</source>
+          <target state="translated">VK-Preis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Current Duplicate UVP Buffer - Field Unit Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3965420519 - Field 3450651614 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Variant Code</source>
+          <target state="translated">Variantencode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Current Duplicate UVP Buffer - Field Variant Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2629401501 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Missing DCE Item Buffer</source>
+          <target state="translated">Puffer fehlende DCE-Artikel</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Missing DCE Item Buffer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2629401501 - Field 3672406267 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Category Line No.</source>
+          <target state="translated">Kategorienzeilennr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Missing DCE Item Buffer - Field Category Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2629401501 - Field 1144418446 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DCE Record ID</source>
+          <target state="translated">DCE-Datensatz-ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Missing DCE Item Buffer - Field DCE Record ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2629401501 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <target state="translated">Lfd. Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Missing DCE Item Buffer - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2629401501 - Field 2842094365 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Description</source>
+          <target state="translated">Artikelbeschreibung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Missing DCE Item Buffer - Field Item Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2629401501 - Field 734647990 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Language Code</source>
+          <target state="translated">Artikelsprachcode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Missing DCE Item Buffer - Field Item Language Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2629401501 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target state="translated">Artikelnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Missing DCE Item Buffer - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2629401501 - Field 3915441264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Shop Code</source>
+          <target state="translated">Artikelshopcode</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Missing DCE Item Buffer - Field Item Shop Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 991320600 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NAV To BC Buffer</source>
+          <target state="translated">NAV-zu-BC Puffer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NAV To BC Import List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 991320600 - Field 1016130111 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EntryNo</source>
+          <target state="translated">LfdNr</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NAV To BC Import List - Field EntryNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 991320600 - Field 166597695 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FieldName</source>
+          <target state="translated">Feldname</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NAV To BC Import List - Field FieldName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 991320600 - Field 2547700717 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FieldNo</source>
+          <target state="translated">Feldnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NAV To BC Import List - Field FieldNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 991320600 - Field 158786060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NAVContent</source>
+          <target state="translated">NAV-Inhalt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NAV To BC Import List - Field NAVContent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 991320600 - Field 3768732020 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RecordID</source>
+          <target state="translated">Datensatz-ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NAV To BC Import List - Field RecordID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 991320600 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <target state="translated">Status</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NAV To BC Import List - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 991320600 - Field 730832363 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TableName</source>
+          <target state="translated">Tabellenname</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NAV To BC Import List - Field TableName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 991320600 - Field 103915345 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TableNo</source>
+          <target state="translated">Tabellennr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NAV To BC Import List - Field TableNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 991320600 - Field 3374928249 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TypeOfChange</source>
+          <target state="translated">Änderungsart</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NAV To BC Import List - Field TypeOfChange - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2931526650 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NAV To BC Buffer Archive</source>
+          <target state="translated">NAV-zu-BC Pufferarchiv</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NAV To BC Import List Archive - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2931526650 - Field 1016130111 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>EntryNo</source>
+          <target state="translated">LfdNr</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NAV To BC Import List Archive - Field EntryNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2931526650 - Field 166597695 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FieldName</source>
+          <target state="translated">Feldname</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NAV To BC Import List Archive - Field FieldName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2931526650 - Field 2547700717 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FieldNo</source>
+          <target state="translated">Feldnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NAV To BC Import List Archive - Field FieldNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2931526650 - Field 158786060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NAVContent</source>
+          <target state="translated">NAV-Inhalt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NAV To BC Import List Archive - Field NAVContent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2931526650 - Field 3768732020 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RecordID</source>
+          <target state="translated">Datensatz-ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NAV To BC Import List Archive - Field RecordID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2931526650 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <target state="translated">Status</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NAV To BC Import List Archive - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2931526650 - Field 730832363 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TableName</source>
+          <target state="translated">Tabellenname</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NAV To BC Import List Archive - Field TableName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2931526650 - Field 103915345 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TableNo</source>
+          <target state="translated">Tabellennr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NAV To BC Import List Archive - Field TableNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2931526650 - Field 3374928249 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TypeOfChange</source>
+          <target state="translated">Änderungsart</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NAV To BC Import List Archive - Field TypeOfChange - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 930670953 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WebShop Monitor Setup</source>
+          <target state="translated">WebShop-Monitor Einrichtung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WebShop Monitor Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 930670953 - Field 1090351696 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active</source>
+          <target state="translated">Aktiv</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WebShop Monitor Setup - Field Active - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 930670953 - Field 3881729441 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Alert Delay (Minutes)</source>
+          <target state="translated">Warnverzögerung (Minuten)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WebShop Monitor Setup - Field Alert Delay (Minutes) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 930670953 - Field 1572717154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Alert if Open Orders &gt;</source>
+          <target state="translated">Warnen, wenn offene Aufträge &gt;</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WebShop Monitor Setup - Field Alert if Open Orders &gt; - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 930670953 - Field 1217007118 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Mail Sent At</source>
+          <target state="translated">Letzte Mail gesendet am</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WebShop Monitor Setup - Field Last Mail Sent At - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 930670953 - Field 3757383779 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Min. Minutes Between Mails</source>
+          <target state="translated">Min. Minuten zwischen Mails</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WebShop Monitor Setup - Field Min. Minutes Between Mails - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 930670953 - Field 149611190 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Notification Emails</source>
+          <target state="translated">Benachrichtigungs-E-Mails</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WebShop Monitor Setup - Field Notification Emails - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 930670953 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target state="translated">Primärschlüssel</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WebShop Monitor Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2947158103 - NamedType 1507016285" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WebShop orders not fully released (%1 open)</source>
+          <target state="translated">WebShop-Aufträge nicht vollständig freigegeben (%1 offen)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit WebShop Order Monitor JQ - NamedType WebShopOrdersNotReleasedLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2947158103 - Method 2395680497 - NamedType 1833191504" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The WebShop monitor detected open sales orders that were not released.</source>
+          <target state="translated">Der WebShop-Monitor hat offene Verkaufsaufträge erkannt, die nicht freigegeben wurden.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit WebShop Order Monitor JQ - Method BuildMailBody - NamedType WebShopMonitorDetectedLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2947158103 - Method 2395680497 - NamedType 2508134521" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open WebShop orders: %1</source>
+          <target state="translated">Offene WebShop-Aufträge: %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit WebShop Order Monitor JQ - Method BuildMailBody - NamedType OpenWebShopOrdersLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2947158103 - Method 2395680497 - NamedType 3979267068" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Oldest order no.: %1</source>
+          <target state="translated">Älteste Auftragsnr.: %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit WebShop Order Monitor JQ - Method BuildMailBody - NamedType OldestOrderNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2947158103 - Method 2395680497 - NamedType 30908477" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Oldest posting date: %1</source>
+          <target state="translated">Ältestes Buchungsdatum: %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit WebShop Order Monitor JQ - Method BuildMailBody - NamedType OldestPostingDateLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2947158103 - Method 2395680497 - NamedType 3437147573" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last open order no.: %1</source>
+          <target state="translated">Letzte offene Auftragsnr.: %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit WebShop Order Monitor JQ - Method BuildMailBody - NamedType LastOpenOrderNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2947158103 - Method 2395680497 - NamedType 162914669" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Alert threshold open orders &gt; %1</source>
+          <target state="translated">Warnschwelle offene Aufträge &gt; %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit WebShop Order Monitor JQ - Method BuildMailBody - NamedType AlertThresholdLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2947158103 - Method 2395680497 - NamedType 3352598515" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Alert delay (minutes): %1</source>
+          <target state="translated">Warnverzögerung (Minuten): %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit WebShop Order Monitor JQ - Method BuildMailBody - NamedType AlertDelayLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2947158103 - Method 2395680497 - NamedType 3249805376" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Current blocking order: %1</source>
+          <target state="translated">Aktuell blockierender Auftrag: %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit WebShop Order Monitor JQ - Method BuildMailBody - NamedType CurrentBlockingOrderLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2947158103 - Method 2395680497 - NamedType 3158917837" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open orders:</source>
+          <target state="translated">Offene Aufträge:</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit WebShop Order Monitor JQ - Method BuildMailBody - NamedType OpenOrdersLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2947158103 - Method 2395680497 - NamedType 1935114120" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 | Posting Date %2 | DCE Order No. %3</source>
+          <target state="translated">%1 | Buchungsdatum %2 | DCE-Auftragsnr. %3</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit WebShop Order Monitor JQ - Method BuildMailBody - NamedType OpenOrderEntryLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2947158103 - Method 2395680497 - NamedType 2865373510" size-unit="char" translate="yes" xml:space="preserve">
+          <source>... and %1 more orders.</source>
+          <target state="translated">... und %1 weitere Aufträge.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit WebShop Order Monitor JQ - Method BuildMailBody - NamedType MoreOrdersLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 4236623777 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BCToNAVCustomer</source>
+          <target state="translated">BC-zu-NAV Debitor</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BC To NAV Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 700121048 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default Dimension List</source>
+          <target state="translated">Standarddimensionsliste</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BC To NAV Default Dim. List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1654016840 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BC To NAV Sales Header</source>
+          <target state="translated">BC-zu-NAV Verkaufskopf</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BC To NAV Sales Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1278197807 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BC To NAV Sales Line</source>
+          <target state="translated">BC-zu-NAV Verkaufszeile</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BC To NAV Sales Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3789222521 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Current Duplicate UVP Prices</source>
+          <target state="translated">Aktuelle doppelte UVP-Preise</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Current Duplicate UVP List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1040890027 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Missing DCE Items</source>
+          <target state="translated">Fehlende DCE-Artikel</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Missing DCE Item List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 991320600 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NAV To BC Import List</source>
+          <target state="translated">NAV-zu-BC Importliste</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NAV To BC Import List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 991320600 - Action 3106002577 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>F&amp;unctions</source>
+          <target state="translated">F&amp;unktionen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NAV To BC Import List - Action F&amp;unctions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 991320600 - Action 3911589846 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archiviert erfolgreich eingelesene Daten mit Status 1</source>
+          <target state="translated">Archiviert erfolgreich eingelesene Daten mit Status 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NAV To BC Import List - Action Archive Data - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 991320600 - Action 3911589846 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Daten archivieren</source>
+          <target state="translated">Daten archivieren</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NAV To BC Import List - Action Archive Data - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 991320600 - Action 3148704045 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>...</source>
+          <target state="translated">...</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NAV To BC Import List - Action Change Payment &amp;Tolerance - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 991320600 - Action 3148704045 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Daten verarbeiten</source>
+          <target state="translated">Daten verarbeiten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NAV To BC Import List - Action Change Payment &amp;Tolerance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2931526650 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NAV To BC Import List Archive</source>
+          <target state="translated">NAV-zu-BC Importlistenarchiv</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NAV To BC Import List Archive - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2931526650 - Action 2745019387 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Restores archived item import entries from the selected period back to the import list.</source>
+          <target state="translated">Stellt archivierte Artikelimport-Einträge aus dem ausgewählten Zeitraum in der Importliste wieder her.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NAV To BC Import List Archive - Action Restore Archived Item Entries - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2931526650 - Action 2745019387 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Restore Archived Item Entries</source>
+          <target state="translated">Archivierte Artikeleinträge wiederherstellen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NAV To BC Import List Archive - Action Restore Archived Item Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2931526650 - Action 1364655720 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Updates all customers with a non-empty location code other than 1 to location code 1.</source>
+          <target state="translated">Aktualisiert alle Debitoren mit einem nicht leeren Lagerortcode ungleich 1 auf Lagerortcode 1.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NAV To BC Import List Archive - Action Set Customer Location Code to 1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2931526650 - Action 1364655720 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set Customer Location Code to 1</source>
+          <target state="translated">Debitoren-Lagerortcode auf 1 setzen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NAV To BC Import List Archive - Action Set Customer Location Code to 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2931526650 - Action 347129188 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows all currently valid UVP entries from table 5276536 where more than one active entry exists per article.</source>
+          <target state="translated">Zeigt alle aktuell gültigen UVP-Einträge aus Tabelle 5276536, bei denen pro Artikel mehr als ein aktiver Eintrag vorhanden ist.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NAV To BC Import List Archive - Action Show Current Duplicate UVP Prices - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2931526650 - Action 347129188 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Current Duplicate UVP Prices</source>
+          <target state="translated">Aktuelle doppelte UVP-Preise anzeigen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NAV To BC Import List Archive - Action Show Current Duplicate UVP Prices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2931526650 - Action 3778720205 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows DCE webshop items that do not have a corresponding item in Business Central.</source>
+          <target state="translated">Zeigt DCE-Webshop-Artikel, zu denen kein entsprechender Artikel in Business Central vorhanden ist.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NAV To BC Import List Archive - Action Show Missing DCE Items - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2931526650 - Action 3778720205 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Missing DCE Items</source>
+          <target state="translated">Fehlende DCE-Artikel anzeigen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NAV To BC Import List Archive - Action Show Missing DCE Items - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 930670953 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WebShop Monitor Setup</source>
+          <target state="translated">WebShop-Monitor Einrichtung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WebShop Monitor Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 930670953 - Control 2781246422 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Separate email addresses with semicolons.</source>
+          <target state="translated">Mehrere E-Mail-Adressen mit Semikolon trennen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WebShop Monitor Setup - Control NotificationEmails - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3113413824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Restore Archived Etries</source>
+          <target state="translated">Archivierte Einträge wiederherstellen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WebShop Restore Dialog - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3113413824 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Period</source>
+          <target state="translated">Zeitraum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WebShop Restore Dialog - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3113413824 - Control 3661700278 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter the last date to restore. Use the same date for a single day.</source>
+          <target state="translated">Gib das letzte Datum für die Wiederherstellung ein. Verwende für einen einzelnen Tag dasselbe Datum.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WebShop Restore Dialog - Control EndDateCtrl - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3113413824 - Control 3661700278 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Date</source>
+          <target state="translated">Enddatum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WebShop Restore Dialog - Control EndDateCtrl - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3113413824 - Control 1617931967 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter the first date to restore.</source>
+          <target state="translated">Gib das erste Datum für die Wiederherstellung ein.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WebShop Restore Dialog - Control StartDateCtrl - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3113413824 - Control 1617931967 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Date</source>
+          <target state="translated">Startdatum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WebShop Restore Dialog - Control StartDateCtrl - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 645600619 - Control 3079105317 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>NAV Bestandsdaten</source>
+          <target state="translated">NAV Bestandsdaten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Item Card Ext 1 - Control NAV Bestandsdaten - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 645600619 - Control 4027194025 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>NAV Bestand Lager 1</source>
+          <target state="translated">NAV Bestand Lager 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Item Card Ext 1 - Control NAV Inventory Location 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 645600619 - Control 3402350788 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1434786627">
+          <source>NAV Bestand Lager 1 ohne WA</source>
+          <target state="translated">NAV Bestand Lager 1 ohne WA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Item Card Ext 1 - Control NAV Inventory Location 1 no WA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1633892545 - Action 1740771736 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Trägt in Artikelzeilen ohne Preis den aktuell gültigen UVP aus der UVP-Tabelle ein.</source>
+          <target state="translated">Trägt in Artikelzeilen ohne Preis den aktuell gültigen UVP aus der UVP-Tabelle ein.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Order Ext - Action Fill Missing Prices With UVP - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1633892545 - Action 1740771736 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Fehlende Preise mit UVP füllen</source>
+          <target state="translated">Fehlende Preise mit UVP füllen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Order Ext - Action Fill Missing Prices With UVP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1737375231 - Action 1850769608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3332899200">
+          <source>Start Manual Export To NAV</source>
+          <target state="translated">Manuellen Export nach NAV starten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Order List Ext - Action Start Manual Export To NAV - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2198791751 - Field 4027194025 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>NAV Inventory Location 1</source>
+          <target state="translated">NAV Bestand Lager 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Item Extension 1 - Field NAV Inventory Location 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2198791751 - Field 3402350788 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>NAV Inventory Location 1 no WA</source>
+          <target state="translated">NAV Bestand Lager 1 ohne WA</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension Item Extension 1 - Field NAV Inventory Location 1 no WA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2960818723 - EnumValue 2477294019 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="translated">Löschen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum BCN Change Type - EnumValue Delete - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2960818723 - EnumValue 2049086889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert</source>
+          <target state="translated">Einfügen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum BCN Change Type - EnumValue Insert - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2960818723 - EnumValue 3817527484 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Modify</source>
+          <target state="translated">Ändern</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum BCN Change Type - EnumValue Modify - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 894211224 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KCX WebShop</source>
+          <target state="translated">KCX WebShop</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet KCX WEBSHOP - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

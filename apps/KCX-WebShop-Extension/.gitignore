@@ -1,0 +1,18 @@
+# Business Central / AL
+.alpackages/
+*.app
+base-symbols.json
+system-symbols.json
+
+# VS Code & User-spezifisches
+.vscode/launch.json
+.vscode/*.code-workspace
+
+# Caches/Temp
+cache_*
+*.log
+.output/
+
+# OS
+.DS_Store
+Thumbs.db

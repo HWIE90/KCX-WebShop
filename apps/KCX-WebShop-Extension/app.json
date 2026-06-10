@@ -1,0 +1,51 @@
+{
+  "id": "f1ffb1c6-0103-4179-af13-5d43ebc092d1",
+  "name": "KCX WebShop Extension",
+  "publisher": "Default publisher",
+  "version": "1.0.0.10",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+        {
+      "id": "9e98f281-38bd-4fb5-aa85-8341014a65f1",
+      "name": "dynamic commerce e-commerce platform",
+      "publisher": "dc AG",
+      "version": "24.0.20251209.190840"
+    },
+ {
+      "id": "c1af5cb3-f004-4377-929d-1c7e636a6e2b",
+      "name": "collana pay",
+      "publisher": "collana hive GmbH",
+      "version": "27.0.2601.10019"
+    },
+ {
+      "id": "00deeda8-d9d0-447e-bc65-c39fe767d760",
+      "name": "collana pay for dynamic commerce",
+      "publisher": "dc AG",
+      "version": "1.0.20251209.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50130
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "features": [
+    "TranslationFile"
+  ],
+  "runtime": "9.0"
+}
