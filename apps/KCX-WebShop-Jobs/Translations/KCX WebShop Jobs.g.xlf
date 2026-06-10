@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="KCX WebShop Jobs">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 675711219 - Field 3983787601 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Queue Entry ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Job Warning Log - Field Job Queue Entry ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 675711219 - Field 1292959099 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Warning DateTime</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Job Warning Log - Field Last Warning DateTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 675711219 - Field 2041359342 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warning Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Job Warning Log - Field Warning Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 616057909 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KCX Job Queue Warning Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table KCX Job Queue Warning Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 616057909 - Field 1090351696 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Active</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table KCX Job Queue Warning Setup - Field Active - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 616057909 - Field 2937529309 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>In Process Warning Minutes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table KCX Job Queue Warning Setup - Field In Process Warning Minutes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 616057909 - Field 2580420302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Monitored User IDs</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table KCX Job Queue Warning Setup - Field Monitored User IDs - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 616057909 - Field 149611190 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Notification Emails</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table KCX Job Queue Warning Setup - Field Notification Emails - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 616057909 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table KCX Job Queue Warning Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 616057909 - Field 4050476616 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ready Warning Minutes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table KCX Job Queue Warning Setup - Field Ready Warning Minutes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 616057909 - Field 3579743641 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warning Mail Subject</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table KCX Job Queue Warning Setup - Field Warning Mail Subject - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1699849400 - NamedType 1359470988" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job ID: %1, User ID: %2, Description: %3, Status: %4, Warning: %5, Earliest Start: %6, Last Modified: %7</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit KCX Job Queue Warning Mgt. - NamedType JobQueueWarningLineLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1699849400 - NamedType 2036855603" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No notification email recipients are configured in KCX Job Queue Warning Setup.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit KCX Job Queue Warning Mgt. - NamedType MissingRecipientsErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1699849400 - NamedType 4090211762" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KCX Job Queue Warning Setup is missing.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit KCX Job Queue Warning Mgt. - NamedType MissingSetupErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1699849400 - NamedType 1867129127" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a test mail from the KCX Job Queue warning monitor.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit KCX Job Queue Warning Mgt. - NamedType TestMailBodyLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1699849400 - NamedType 463544659" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KCX Job Queue warning test mail</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit KCX Job Queue Warning Mgt. - NamedType TestMailSubjectLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 4132954816 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KCX Job Queue Email Test</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page KCX Job Queue Email Test - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4132954816 - NamedType 3929035190" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The test mail has been sent.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page KCX Job Queue Email Test - NamedType TestMailSentMsg</note>
+        </trans-unit>
+        <trans-unit id="Page 4132954816 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page KCX Job Queue Email Test - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4132954816 - Control 135303975 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the recipients used by the test mail action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page KCX Job Queue Email Test - Control TestRecipient - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4132954816 - Control 135303975 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Recipient</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page KCX Job Queue Email Test - Control TestRecipient - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4132954816 - Action 546556333 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sends a test mail to the fixed test recipient.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page KCX Job Queue Email Test - Action SendTestMail - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4132954816 - Action 546556333 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send Test Mail</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page KCX Job Queue Email Test - Action SendTestMail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 616057909 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KCX Job Queue Warning Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page KCX Job Queue Warning Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 616057909 - Control 1090351696 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether the job queue warning monitor is active.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page KCX Job Queue Warning Setup - Control Active - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 616057909 - Control 3839448317 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies after how many minutes a job queue entry in process is reported when it has not changed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page KCX Job Queue Warning Setup - Control InProcessWarningMinutes - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 616057909 - Control 2094131190 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the job queue user IDs to monitor. Separate multiple user IDs with semicolons.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page KCX Job Queue Warning Setup - Control MonitoredUserIDs - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 616057909 - Control 2781246422 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the email recipients. Separate multiple addresses with semicolons.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page KCX Job Queue Warning Setup - Control NotificationEmails - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 616057909 - Control 248145112 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies after how many minutes a ready job queue entry is reported when its earliest start date/time is exceeded.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page KCX Job Queue Warning Setup - Control ReadyWarningMinutes - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 616057909 - Control 2106778417 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the subject used for warning emails.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page KCX Job Queue Warning Setup - Control WarningMailSubject - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 866303284 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>KCX WebShop Jobs</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet KCX WEBSHOP JOBS - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
